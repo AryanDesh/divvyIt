@@ -22,6 +22,7 @@ module.exports = {
         accent: "var(--color-accent)",
         secondary: "var(--color-secondary)",
         light: "var(--color-light)",
+        primary: "gray-900"
       },
       backgroundImage: {
         "heroImage": "url('/bg.png')",
